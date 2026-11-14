@@ -1,0 +1,13 @@
+{
+  "name": "download-speed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Десять последовательных загрузок URL и расчёт скорости скачивания",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
